@@ -1,0 +1,25 @@
+
+# Dataset files
+data/
+lfw_data/
+
+# Generated biometric embeddings
+*.npy
+*.npz
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Python temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+env/
+
+# OS files
+.DS_Store
